@@ -54,4 +54,5 @@ Event website: https://www.eventbrite.com/e/multi-disciplinary-hands-on-blockcha
 * Rebecca Lo -- Community Lead, Passport http://pspt.io
 * kentydotcom - drugDealer
 * arthur
+* Rho Block - Bitcoin mining machine designer & sales http://lutech.io
 * ADD YOUR NAME ABOVE HERE
